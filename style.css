@@ -5,7 +5,7 @@
 .content{
     background-color:#fff;
     margin: 0px -8px 0px -8px;
-    height: 800px; /*height kalo mau dirubah silahkan*/
+    height: auto; /*height kalo mau dirubah silahkan*/
 }
 .footer{
     background-color: #474646;
@@ -53,4 +53,28 @@
 }
 .hint .location{
     margin-left: 150px;
+}
+.inner-content{
+    width:70%;
+    margin-left: 15%;
+}
+.prev-product{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 30px;
+    background-color: #ededed;
+    border-radius: 7px;
+    height: 300px;
+}
+.prev-product span{
+    float:left;
+    font-weight: bold;
+}
+.prev-product a{
+    float:right;
+    color: #474646;
+    text-decoration: none;
+}
+.prev-product a:hover{
+    color: #a3c6d1;
 }
