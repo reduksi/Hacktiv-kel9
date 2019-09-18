@@ -1,0 +1,56 @@
+.header{
+    background-color: red;
+    margin: -8px -8px 0px -8px;
+}
+.content{
+    background-color:#fff;
+    margin: 0px -8px 0px -8px;
+    height: 800px; /*height kalo mau dirubah silahkan*/
+}
+.footer{
+    background-color: #474646;
+    color: #ededed;
+    padding: 15px;
+    text-align: center;
+    margin: 0px -8px -8px -8px;
+}
+.logo{
+    object-fit: cover;
+    object-position: 0 75%;
+    margin-left: 30px;
+    width:130px;
+    height: 80px;
+}
+.navbar{
+    background-color: #ebebeb;
+    height: 80px;
+    padding: 30px 80px 10px 80px;
+}
+.navbar ul{
+    list-style-type: none;
+    margin: 10px 0 0 0;
+    padding: 0;
+    float: right;
+}
+.navbar li{
+    display: inline;
+}
+.navbar a{
+    padding: 15px;
+    text-decoration: none;
+    color: #474646;
+}
+.navbar a:hover{
+    background-color: #474646;
+    color: #ededed;
+    border-radius: 7px;
+}
+.hint{
+    padding: 14px;
+    font-size: 18;
+    background-color: #474646;
+    color: #ededed;
+}
+.hint .location{
+    margin-left: 150px;
+}
