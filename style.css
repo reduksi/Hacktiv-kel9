@@ -59,12 +59,12 @@
     margin-left: 15%;
 }
 .prev-product{
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 10px;
     padding: 30px;
     background-color: #ededed;
     border-radius: 7px;
-    height: 300px;
+    height: 350px;
 }
 .prev-product span{
     float:left;
@@ -77,4 +77,16 @@
 }
 .prev-product a:hover{
     color: #a3c6d1;
+}
+.prev-card{
+    padding: 1.6%;
+    width: 30%;
+    float:right;
+}
+.prev-card img{
+    object-fit: cover;
+    border-radius: 10px;
+    object-position: 0 55%;
+    width: 100%;
+    height: 80%;
 }
