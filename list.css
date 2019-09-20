@@ -5,17 +5,18 @@
 
 .content{
     background-color:#fff;
-    margin: 0px -8px 0px -8px;
-    text-align: center;
-    height: auto; /*height kalo mau dirubah silahkan*/
-    img width:100px;
-}
+    margin: 0px -8px -10px 30px;
+    text-align: left;
+    height: 200; /*height kalo mau dirubah silahkan*/
 
+}
 .daftar{
     margin: 0px -8px 0px -8px;
     text-align: center;
-    color: maroon;
-
+    padding: 30px;
+    background-color: #c1c9c9;
+    border-radius: 7px;
+    
 }
 }
 .footer{
